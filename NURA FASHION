@@ -1,0 +1,76 @@
+index.html
+<!doctype html>
+<html>
+<head>
+  <title> NURA FASHION </title>
+  <link rel="stylesheet" href="style.css">
+  <div>
+  <h1> Welcome to <br> NURA FASHION </h1>
+  <h2> A great collection house of Fashionable Clothes </h2> </div>
+  <div>
+  <h3> Here are a guide name SAMIR to assist you </h3>
+  <h3> I am Samir <br> Could you tell me that what kind of help you need <br> Here are some options according to your needs. Click the option that which you need.
+  </h3> </div>
+  <div>
+  <a href = "NURAFASHIONPRODUCT.html"> <strong> PRODUCTS Related </strong>
+  </a> <br>
+  <a href = "NURAFASHIONPROBLEMS.html">
+    <strong> Facing Problems or issues </strong>
+  </div> </a>
+  <div>
+  <h4> Contact Us <br>
+ <strong> abdulgaffarshamir@gmail.com </strong> </h4> </div>
+</head>
+<body>
+  <script src="script.js">
+  </script>
+</body>
+</html>
+
+style.css
+h1{
+  color:red
+}
+h2{
+  color:blueviolet
+}
+h3{
+  color:green
+}
+
+NURAFASHIONPRODUCT.html
+<html>
+<head>
+  <title> NURA FASHION PRODUCT </title>
+  <link rel= "stylesheet"
+    href= "NURAFASHIONPRODUCT.css">
+  <div>
+<h1> Welcome to NURA FASHION </h1> <h2> We are try our best to give you Best Products with reasonable value and provide best service. <br> In our any kinds absence if you face any kinds of product related problem. <br> Kindly Contact Us through any connections. <br> <strong> 8801727138994 </strong> <p> This contact also you could find in What's app or Telegram.
+ </h2> </div>
+  <div>
+<h2> Our current available products 
+<ul>
+  <li> Sharee </li>
+  <li> Three pices </li>
+  <li> Lehenga </li>
+</ul></h2> </div>
+  <div>
+<h1> Which product would you like to purchase </h1> </div>
+  <div>
+  <h3> SHAREE </h3>
+  <img src = images/my image.jpg alt = my image>
+  <h3> THREE PICES </h3>
+  <h3> LEHENGA </h3>
+  </div>
+</head>
+</html>
+
+NURAFASHIONPRODUCT.css
+h1{
+  color:red
+}
+h3{
+  color:forestgreen
+}
+
+
